@@ -4,6 +4,9 @@
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "express-sessions": "^1.0.6",
+    "multer": "^1.4.5-lts.1",
     "path": "^0.12.7",
     "port": "^0.8.1"
   }
